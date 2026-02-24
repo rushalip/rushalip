@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning<br>
+JAVA Full Stack Developer<br>
 
 
 ## 🌐 Socials:
